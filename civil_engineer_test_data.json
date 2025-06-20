@@ -1,0 +1,85 @@
+{
+  "job_description": "We are seeking a Civil Engineer with a strong background in structural design and transportation infrastructure. \nThe ideal candidate will have experience working with AutoCAD, performing site inspections, and leading mid-sized construction projects. \nKnowledge of government regulations and permitting processes is a must. A PE license is preferred.",
+  "resumes": [
+    {
+      "name": "Jordan Smith",
+      "resume": "Name: Jordan Smith\n    Discipline: Civil Engineering\n    Years of Experience: 12\n    Skills: Structural Design, Permit Application, GIS\n    Summary: Experienced civil engineer with a proven record in Structural Design, Permit Application, GIS."
+    },
+    {
+      "name": "Casey Allen",
+      "resume": "Name: Casey Allen\n    Discipline: Civil Engineering\n    Years of Experience: 12\n    Skills: Revit, Structural Design, GIS\n    Summary: Experienced civil engineer with a proven record in Revit, Structural Design, GIS."
+    },
+    {
+      "name": "Taylor Johnson",
+      "resume": "Name: Taylor Johnson\n    Discipline: Civil Engineering\n    Years of Experience: 6\n    Skills: Permit Application, GIS, Revit\n    Summary: Experienced civil engineer with a proven record in Permit Application, GIS, Revit."
+    },
+    {
+      "name": "Jamie Brown",
+      "resume": "Name: Jamie Brown\n    Discipline: Civil Engineering\n    Years of Experience: 6\n    Skills: Permit Application, AutoCAD, Structural Design\n    Summary: Experienced civil engineer with a proven record in Permit Application, AutoCAD, Structural Design."
+    },
+    {
+      "name": "Avery Miller",
+      "resume": "Name: Avery Miller\n    Discipline: Civil Engineering\n    Years of Experience: 5\n    Skills: Permit Application, AutoCAD, Revit\n    Summary: Experienced civil engineer with a proven record in Permit Application, AutoCAD, Revit."
+    },
+    {
+      "name": "Reese Davis",
+      "resume": "Name: Reese Davis\n    Discipline: Civil Engineering\n    Years of Experience: 11\n    Skills: Revit, GIS, Site Inspection\n    Summary: Experienced civil engineer with a proven record in Revit, GIS, Site Inspection."
+    },
+    {
+      "name": "Morgan Green",
+      "resume": "Name: Morgan Green\n    Discipline: Civil Engineering\n    Years of Experience: 12\n    Skills: Structural Design, AutoCAD, Permit Application\n    Summary: Experienced civil engineer with a proven record in Structural Design, AutoCAD, Permit Application."
+    },
+    {
+      "name": "Parker Scott",
+      "resume": "Name: Parker Scott\n    Discipline: Civil Engineering\n    Years of Experience: 6\n    Skills: AutoCAD, Revit, Site Inspection\n    Summary: Experienced civil engineer with a proven record in AutoCAD, Revit, Site Inspection."
+    },
+    {
+      "name": "Riley Bennett",
+      "resume": "Name: Riley Bennett\n    Discipline: Industrial Engineering\n    Years of Experience: 8\n    Skills: Simulation Modeling, Process Optimization, Operations Research\n    Summary: Experienced industrial engineer with a proven record in Simulation Modeling, Process Optimization, Operations Research."
+    },
+    {
+      "name": "Dakota Morgan",
+      "resume": "Name: Dakota Morgan\n    Discipline: Industrial Engineering\n    Years of Experience: 12\n    Skills: Operations Research, Simulation Modeling, Lean Six Sigma\n    Summary: Experienced industrial engineer with a proven record in Operations Research, Simulation Modeling, Lean Six Sigma."
+    },
+    {
+      "name": "Skylar Turner",
+      "resume": "Name: Skylar Turner\n    Discipline: Electrical Engineering\n    Years of Experience: 5\n    Skills: Circuit Design, MATLAB, Control Systems\n    Summary: Experienced electrical engineer with a proven record in Circuit Design, MATLAB, Control Systems."
+    },
+    {
+      "name": "Emerson Howard",
+      "resume": "Name: Emerson Howard\n    Discipline: Electrical Engineering\n    Years of Experience: 3\n    Skills: Control Systems, Power Systems, Circuit Design\n    Summary: Experienced electrical engineer with a proven record in Control Systems, Power Systems, Circuit Design."
+    },
+    {
+      "name": "Quinn Coleman",
+      "resume": "Name: Quinn Coleman\n    Discipline: Electrical Engineering\n    Years of Experience: 7\n    Skills: Embedded Systems, Control Systems, MATLAB\n    Summary: Experienced electrical engineer with a proven record in Embedded Systems, Control Systems, MATLAB."
+    },
+    {
+      "name": "Sawyer Lee",
+      "resume": "Name: Sawyer Lee\n    Discipline: Electrical Engineering\n    Years of Experience: 5\n    Skills: Power Systems, Embedded Systems, MATLAB\n    Summary: Experienced electrical engineer with a proven record in Power Systems, Embedded Systems, MATLAB."
+    },
+    {
+      "name": "Rowan Phillips",
+      "resume": "Name: Rowan Phillips\n    Discipline: Mechanical Engineering\n    Years of Experience: 4\n    Skills: ANSYS, FEA Analysis, Thermodynamics\n    Summary: Experienced mechanical engineer with a proven record in ANSYS, FEA Analysis, Thermodynamics."
+    },
+    {
+      "name": "Blake Anderson",
+      "resume": "Name: Blake Anderson\n    Discipline: Mechanical Engineering\n    Years of Experience: 5\n    Skills: HVAC Design, ANSYS, FEA Analysis\n    Summary: Experienced mechanical engineer with a proven record in HVAC Design, ANSYS, FEA Analysis."
+    },
+    {
+      "name": "Drew Parker",
+      "resume": "Name: Drew Parker\n    Discipline: Mechanical Engineering\n    Years of Experience: 4\n    Skills: HVAC Design, Thermodynamics, SolidWorks\n    Summary: Experienced mechanical engineer with a proven record in HVAC Design, Thermodynamics, SolidWorks."
+    },
+    {
+      "name": "Cameron Clark",
+      "resume": "Name: Cameron Clark\n    Discipline: Mechanical Engineering\n    Years of Experience: 6\n    Skills: HVAC Design, FEA Analysis, ANSYS\n    Summary: Experienced mechanical engineer with a proven record in HVAC Design, FEA Analysis, ANSYS."
+    },
+    {
+      "name": "Alex Reese",
+      "resume": "Name: Alex Reese\n    Discipline: Manufacturing Engineering\n    Years of Experience: 3\n    Skills: Production Planning, Tool Design, CNC Programming\n    Summary: Experienced manufacturing engineer with a proven record in Production Planning, Tool Design, CNC Programming."
+    },
+    {
+      "name": "Logan West",
+      "resume": "Name: Logan West\n    Discipline: Manufacturing Engineering\n    Years of Experience: 8\n    Skills: CNC Programming, Production Planning, Quality Assurance\n    Summary: Experienced manufacturing engineer with a proven record in CNC Programming, Production Planning, Quality Assurance."
+    }
+  ]
+}

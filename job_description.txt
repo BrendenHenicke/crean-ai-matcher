@@ -1,0 +1,3 @@
+Aerospace Engineer - Satellite Communications Project
+
+We are seeking an experienced aerospace engineer to lead the design and integration of satellite communication systems for a new CubeSat mission. The ideal candidate will have expertise in RF systems, subsystem integration, and satellite testing in simulated space environments. Responsibilities include coordinating with cross-functional teams, overseeing subsystem testing, and ensuring compliance with government aerospace standards.
